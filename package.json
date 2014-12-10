@@ -1,0 +1,10 @@
+{
+  "name": "tcx-parser",
+  "version": "0.1.0",
+  "private": "true",
+  "main": "tcx-parser.js",
+  "author": "Peter Murphy <peter71@gmail.com>",
+  "dependencies": {
+    "sax": "^0.6.1"
+  }
+}
